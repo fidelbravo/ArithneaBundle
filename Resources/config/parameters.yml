@@ -1,0 +1,3 @@
+parameters:
+    images_dir: d:\servers\xampp\htdocs\symfony\web\bundles\arithneaariman\images\
+    cache_dir: d:\servers\xampp\htdocs\symfony\web\bundles\arithneaariman\cache\
