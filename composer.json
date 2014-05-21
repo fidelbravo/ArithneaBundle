@@ -1,0 +1,25 @@
+{
+    "name":"arithnea/ariman-bundle",
+    "description":"This Bundle is a basic cms based on symfony for images manipulation",
+    "keywords":["symfony", "images"],
+    "type":"images-bundle",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"Fidel Bravo",
+            "homepage":"http://fbravo.de",
+            "email":"fidelbravo@gmail.com"
+        }
+    ],
+    "require":{
+        "php":">=5.3.3",
+        "symfony/symfony": ">=2.4"
+    },
+    "autoload":{
+        "psr-0":{
+            "Arithnea\\ArimanBundle":""
+        }
+    },
+    "target-dir":"Arithnea/ArimanBundle",
+    "minimum-stability":"dev"
+}
